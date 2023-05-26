@@ -1,0 +1,1 @@
+-keep class com.danielefavaro.githubapiplayground.core.model.** { *; }

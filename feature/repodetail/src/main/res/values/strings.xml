@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="simple_back_caption">Navigate back</string>
+    <string name="private_repo_label">Private</string>
+    <string name="public_repo_label">Public</string>
+    <string name="archived_repo_label">Archived</string>
+    <string name="owned_by">Owned by %s</string>
+    <string name="avatar_image_caption">Owner avatar image</string>
+    <string name="watchers_count">%s watchers</string>
+    <string name="stars_count">%s stars</string>
+    <string name="visit_repo_cta_label">More details</string>
+</resources>

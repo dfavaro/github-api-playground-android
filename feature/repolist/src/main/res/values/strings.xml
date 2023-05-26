@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="generic_error">Something went wrong</string>
+    <string name="connection_error">You seem to be offline</string>
+    <string name="user_repos_title">Your repositories</string>
+    <string name="repo_stars_count">Stars count</string>
+</resources>
